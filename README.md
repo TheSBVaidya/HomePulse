@@ -22,7 +22,7 @@ Let’s make ViviLink the best it can be — and have fun along the way! 😎
  ## UI
 
 <img src="https://github.com/TheSBVaidya/VIviLink/blob/9e681ec13e9c8c9b4debd643c70661120e80cdd5/UI/signIn1.jpg" width="400" height="800">
-<img src="https://github.com/TheSBVaidya/VIviLink/blob/718d17fce2c5f1841544efcb8019183bc5860078/UI/signIn2.jpg" width="400" height="800">
+<img src="https://github.com/TheSBVaidya/VIviLink/blob/718d17fce2c5f1841544efcb8019183bc5860078/UI/signIn2.jpg" width="400" height="800"> <br>
 <img src="https://github.com/TheSBVaidya/VIviLink/blob/718d17fce2c5f1841544efcb8019183bc5860078/UI/signIn3.jpg" width="400" height="800">
 <img src="https://github.com/TheSBVaidya/VIviLink/blob/718d17fce2c5f1841544efcb8019183bc5860078/UI/WaitingPeriod.jpg" width="400" height="800">
 <img src="https://github.com/TheSBVaidya/VIviLink/blob/718d17fce2c5f1841544efcb8019183bc5860078/UI/Profile.jpg" width="400" height="800">
