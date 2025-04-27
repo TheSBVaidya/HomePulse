@@ -21,7 +21,7 @@ Let’s make ViviLink the best it can be — and have fun along the way! 😎
 
  ## UI
 
- <img src="https://github.com/TheSBVaidya/VIviLink/blob/718d17fce2c5f1841544efcb8019183bc5860078/UI/signIn1.jpg" width="100" height="200">
+ <img src="https://github.com/TheSBVaidya/VIviLink/blob/718d17fce2c5f1841544efcb8019183bc5860078/UI/signIn1.jpg" width="200" height="250">
 
 
 ![image alt](https://github.com/TheSBVaidya/VIviLink/blob/9e681ec13e9c8c9b4debd643c70661120e80cdd5/UI/signIn1.jpg)
